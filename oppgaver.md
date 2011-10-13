@@ -1,5 +1,3 @@
-# Del 1
-
 ## Ressurser
 
 * [Presentasjonen](https://raw.github.com/eiriklied/ruby-kurs-uia/master/del_1/rubykurs.pdf)
