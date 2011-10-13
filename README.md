@@ -5,6 +5,7 @@
 * [Link til presentasjon](https://raw.github.com/kjbekkelund/ruby-fagkveld/master/rubykurs.pdf)
 * [Offisiell Ruby-dokumentasjon](http://ruby-doc.org/core/)
 * [Søkbar Ruby-dokumentasjon](http://railsapi.com/doc/ruby-v1.9.2/)
+* [Kom igang med Heroku](http://devcenter.heroku.com/articles/quickstart)
 
 ## Videre
 
