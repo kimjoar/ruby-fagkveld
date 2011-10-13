@@ -1,3 +1,5 @@
+Eksempler på enkle oppgaver for å komme igang med Ruby.
+
 ## Ressurser
 
 * [Presentasjonen](https://raw.github.com/eiriklied/ruby-kurs-uia/master/del_1/rubykurs.pdf)
