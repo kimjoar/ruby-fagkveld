@@ -126,3 +126,33 @@ puts a, @a, @@a, $a
 # 2
 # 3
 # 4
+
+# These two following classes are equal
+class User
+  def name=(name)
+    @name = name
+  end
+
+  def name
+    @name
+  end
+end
+
+user = User.new
+user.name = "Kim"
+puts user.name # => Kim
+
+class User
+  attr_accessor :name
+end
+user = User.new
+user.name = "Kim"
+puts user.name # => Kim
+
+class String
+  def exclamate
+    "#{self}!"
+  end
+end
+
+puts "Rop".exclamate # => Rop!
